@@ -13,4 +13,4 @@ docker exec dtsci conda install -c conda-forge fbprophet --yes
 ```
 Notebooks and data files can be uploaded via the webpage running on http://localhost:8888 and extened as normal.
 
-A seperate notebook with the R kernal was used to convert the px file to csv file for use with panads.
+A seperate notebook with the R kernel was used to convert the px file to csv file for use with panads.
